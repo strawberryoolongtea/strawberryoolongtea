@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstrawberryoolongtea&count_bg=%239CC8C6&title_bg=%236667AB&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!--
+[![Strawberry Oolong Tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberryoolongtea&count_private=true&bg_color=60,6667ab,9369a8&show_icons=true&title_color=9cc8c6&text_color=e3c1c1&icon_color=e3c1c1&theme=tokyonight&locale=en)](https://github.com/strawberryoolongtea/github-readme-stats)
+-->
+
+[![Strawberry Oolong Tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberryoolongtea&count_private=true&show_icons=true&theme=tokyonight&locale=en)](https://github.com/strawberryoolongtea/github-readme-stats)
+
+[![Strawberry Oolong Tea's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawberryoolongtea&custom_title=Strawberry%20Oolong%20Tea%27s%20Languages&layout=compact&theme=tokyonight&locale=en)](https://github.com/strawberryoolongtea/github-readme-stats)
+
 <!--
 **strawberryoolongtea/strawberryoolongtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
